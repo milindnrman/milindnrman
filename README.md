@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milindnrman" alt="milindnrman" /></a> </p>
 
-- 🔭 I’m currently working on **Flipkart Selling Brand**
+- 🔭 I’m currently working on **Zomato Restarunt Analysis**
 
-- 🌱 I’m currently learning **PowerBI, Advance Excell**
+- 🌱 I’m currently Working **PowerBI,SQL**
 
 - 👯 I’m looking to collaborate on **Employee Birthday System**
 
-- 🤝 I’m looking for help with **Advance Excell**
+- 🤝 I’m looking for help with **PowerBi**
 
 - 💬 Ask me about **Data analyst**
 
 - 📫 How to reach me **milindraut733@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LJOmyj3kQ-56d2UOZTemXd_moz3zYyvl/view?usp=drive_link](https://drive.google.com/file/d/1LJOmyj3kQ-56d2UOZTemXd_moz3zYyvl/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1LJOmyj3kQ-56d2UOZTemXd_moz3zYyvl/view?usp=drive_link](https://1drv.ms/b/s!AhF9MEC18T14g0AxAs1THVQGJQAM?e=dE213D)](https://drive.google.com/file/d/1LJOmyj3kQ-56d2UOZTemXd_moz3zYyvl/view?usp=drive_link)](https://1drv.ms/b/s!AhF9MEC18T14g0AxAs1THVQGJQAM?e=dE213D)
 
 - ⚡ Fun fact **I'm activy search out trending data set !!!**
 
