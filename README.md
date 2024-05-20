@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **milindraut733@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1LJOmyj3kQ-56d2UOZTemXd_moz3zYyvl/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1zdf6djenH_BYN5JPKnLHa_sZv47M7YdK/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm actively searching out trending datasets!**
 
